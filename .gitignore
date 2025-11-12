@@ -1,0 +1,5 @@
+*.raw
+*.pcap
+*.tar.gz
+*.sha256
+volatility_outputs/
